@@ -1,0 +1,6 @@
+{
+  "name": "What U Do?",
+  "description": "Discover what your coursemates can do. Premium student talent discovery platform powered by Google Gemma 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
