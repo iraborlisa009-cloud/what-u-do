@@ -119,7 +119,7 @@ export const Hero: React.FC<HeroProps> = ({
           <div className="lg:col-span-5 flex items-center">
             <div className="relative w-full aspect-4/3 lg:aspect-auto lg:h-full min-h-[320px] rounded-2xl overflow-hidden border border-stone-200 bg-stone-200 shadow-sm">
               <img
-                src="/src/assets/images/hero_student_creative_1793366541830.jpg"
+                src="/src/assets/images/WhatsApp Image 2026-10-30 at 15.45.29.jpeg"
                 alt="University students collaborating in creative workshop studio"
                 className="w-full h-full object-cover object-center filter saturate-[0.9] contrast-[1.05]"
                 referrerPolicy="no-referrer"

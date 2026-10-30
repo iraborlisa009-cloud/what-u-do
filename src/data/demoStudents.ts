@@ -60,7 +60,7 @@ export const DEMO_PROJECTS: Project[] = [
     title: 'AgroSense IoT Soil & Moisture Monitor for Farms',
     description: 'Embedded firmware on ESP32 paired with Python FastAPI backend and a Next.js live telemetry dashboard for student agricultural cooperative test fields.',
     skills: ['Python', 'FastAPI', 'Embedded C++', 'IoT', 'Tailwind CSS'],
-    coverImage: '/src/assets/images/hero_student_creative_1793366541830.jpg',
+    coverImage: '/src/assets/images/pic.jpeg',
     evidenceLink: 'https://github.com/kayode-futa/agrosense-iot',
     evidencePlatform: 'github',
     completionDate: 'March 2026',

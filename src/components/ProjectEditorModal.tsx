@@ -63,7 +63,7 @@ export const ProjectEditorModal: React.FC<ProjectEditorModalProps> = ({
     { label: 'Mobile & UI/UX App', url: '/src/assets/images/portfolio_mobile_app_1793366542747.jpg' },
     { label: 'Documentary Photography', url: '/src/assets/images/portfolio_photo_series_1793366544527.jpg' },
     { label: '3D Spatial Pavilion', url: '/src/assets/images/portfolio_motion_reel_1793366800725.jpg' },
-    { label: 'Workshop Collaboration', url: '/src/assets/images/hero_student_creative_1793366541830.jpg' },
+    { label: 'Workshop Collaboration', url: '/src/assets/images/WhatsApp Image 2026-10-30 at 15.45.29.jpeg' },
   ];
 
   const handleAddSkill = () => {
